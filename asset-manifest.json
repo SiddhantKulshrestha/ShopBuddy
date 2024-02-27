@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SiddhantKulshrestha/ShopBuddy/static/css/main.f51cd021.css",
+    "main.js": "/SiddhantKulshrestha/ShopBuddy/static/js/main.c34399b4.js",
+    "index.html": "/SiddhantKulshrestha/ShopBuddy/index.html",
+    "main.f51cd021.css.map": "/SiddhantKulshrestha/ShopBuddy/static/css/main.f51cd021.css.map",
+    "main.c34399b4.js.map": "/SiddhantKulshrestha/ShopBuddy/static/js/main.c34399b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f51cd021.css",
+    "static/js/main.c34399b4.js"
+  ]
+}
